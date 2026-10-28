@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Hide Message Clock",
+    "description": "Hides the time label on conversation message rows, optionally only on mobile."
+  }
+}
